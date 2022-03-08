@@ -1,0 +1,32 @@
+_repo: The-Cross-and-the-Hammer-A-Tale-of-the-Days-of-the-Vikings_67528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bedford-Jones, H. (Henry)
+    aliases:
+    - Bedford-Jones, Henry James O'Brien
+    - Wycliffe, John
+    - Hawkwood, Allan
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '34930'
+    url: http://www.gutenberg.org/2009/agents/34930
+    wikipedia: https://en.wikipedia.org/wiki/H._Bedford-Jones
+description: ''
+gutenberg_issued: '2022-02-28'
+identifiers:
+  gutenberg: '67528'
+language: en
+pgterms:marc904: https://archive.org/details/crosshammertaleo00bedf
+pgterms:marc905: 20220223101850bedfordjon
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :David C. Cook Publishing Co.,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Cross and the Hammer: A Tale of the Days of the Vikings'
+url: http://www.gutenberg.org/ebooks/67528
